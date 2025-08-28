@@ -1,9 +1,9 @@
 # 📌 Credit Risk Prediction
-## 🔎 Project Overview
+ 🔎 Project Overview
 
 This project focuses on developing machine learning models to predict credit risk and identify factors that influence loan default. Financial institutions face significant challenges in distinguishing between reliable borrowers and those at higher risk of default. By leveraging predictive modeling, banks can make more informed lending decisions, reduce financial losses, and improve customer targeting strategies.
 
-# ⚙️ Methodology
+⚙️ Methodology
 
 Dataset: Borrower demographic and financial information.
 
@@ -27,7 +27,7 @@ Feature Selection: Considered factors such as loan interest rate, borrower’s i
 
 Evaluation Metrics: Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
 
-# 📊 Results & Findings
+ 📊 Results & Findings
 
 Random Forest and Bagging emerged as the best-performing models, achieving high accuracy, precision, F1-score, and AUC.
 
@@ -49,7 +49,7 @@ Key predictive features include:
 
 - Loan amount
 
-# ✅ Conclusion
+ ✅ Conclusion
 
 The study demonstrated that ensemble models such as Random Forest, Bagging, and XGBoost are highly effective for credit risk prediction. These models capture complex patterns in borrower data, making them suitable for deployment in real-world banking scenarios.
 
