@@ -15,19 +15,19 @@ Feature Selection: Considered factors such as loan interest rate, borrower’s i
 
 - Random Forest
 
-Bagging
+- Bagging
 
-XGBoost
+- XGBoost
 
-Decision Tree
+- Decision Tree
 
-Extra Trees
+- Extra Trees
 
-AdaBoost
+- AdaBoost
 
 Evaluation Metrics: Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
 
-📊 Results & Findings
+# 📊 Results & Findings
 
 Random Forest and Bagging emerged as the best-performing models, achieving high accuracy, precision, F1-score, and AUC.
 
@@ -35,25 +35,25 @@ XGBoost also performed exceptionally well, with a strong AUC score indicating ex
 
 Key predictive features include:
 
-Loan interest rate
+- Loan interest rate
 
-Borrower’s income
+- Borrower’s income
 
-Income-to-loan ratio
+- Income-to-loan ratio
 
-Loan grade
+- Loan grade
 
-Home ownership status (mortgage/rent)
+- Home ownership status (mortgage/rent)
 
-Employment length
+- Employment length
 
-Loan amount
+- Loan amount
 
-✅ Conclusion
+# ✅ Conclusion
 
 The study demonstrated that ensemble models such as Random Forest, Bagging, and XGBoost are highly effective for credit risk prediction. These models capture complex patterns in borrower data, making them suitable for deployment in real-world banking scenarios.
 
-💡 Recommendations
+# 💡 Recommendations
 
 Banks should adopt Random Forest, Bagging, or XGBoost models for evaluating loan applicants due to their high predictive accuracy and ability to handle imbalanced datasets.
 
