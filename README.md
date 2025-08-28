@@ -1,5 +1,5 @@
-## 📌 Credit Risk Prediction
-# 🔎 Project Overview
+# 📌 Credit Risk Prediction
+## 🔎 Project Overview
 
 This project focuses on developing machine learning models to predict credit risk and identify factors that influence loan default. Financial institutions face significant challenges in distinguishing between reliable borrowers and those at higher risk of default. By leveraging predictive modeling, banks can make more informed lending decisions, reduce financial losses, and improve customer targeting strategies.
 
